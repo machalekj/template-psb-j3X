@@ -1,0 +1,90 @@
+#left_panel_navigation ul {
+  margin-left: 0;
+}
+
+#left_panel_navigation ul li ul{
+  margin-left: 0;
+}
+
+#left_panel_navigation ul li {
+  list-style: none;
+}
+
+#left_panel_navigation ul li ul li{
+  list-style: none;
+  border-left: 7px solid #207e62;
+}
+
+#left_panel_navigation ul li ul li ul li{
+  list-style: none;
+  border-left: 7px solid #79b2a1;
+}
+
+#left_panel_navigation ul li a {
+  display: block;
+  color:#fff;
+  background: #207e62;
+  padding: 4px;
+  margin: 0 0 1px 0;
+  text-decoration: none;
+}
+
+#left_panel_navigation ul li:first-child > a {
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+
+#left_panel_navigation ul li.parent ul li:first-child > a {
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+}
+
+#left_panel_navigation ul li:last-child > a {
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+
+#left_panel_navigation ul li.parent ul li:last-child > a {
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+#left_panel_navigation ul li.deeper:last-child > a {
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+}
+
+#left_panel_navigation ul li a:hover {
+  background: #308e72;
+}
+
+
+#left_panel_navigation ul li ul li a {
+  color:#000;
+  background: #acddce;
+}
+
+#left_panel_navigation ul li ul li a:hover {
+  background: #bcedde;
+}
+
+#left_panel_navigation ul li.current a {
+  font-weight: bold;
+}
+
+#left_panel_navigation ul li.current ul li a {
+  font-weight: normal;
+}
+
+#left_panel_navigation ul.nase-programy li a {
+  background: #1a9470;
+}
+
+#left_panel_navigation ul.nase-programy li a:hover {
+  background: #2aa480;
+}
+
+.nase_programy h3 {
+  margin-top: 0.75em;
+}
+

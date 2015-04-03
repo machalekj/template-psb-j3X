@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.6//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.6/template-install.dtd">
+<extension version="3.0" type="template" method="upgrade" client="site">
+    <name>PSB</name>
+    <creationDate>2014/12</creationDate>
+    <author>Milan Zink</author>
+    <authorEmail>zeten30@gmail.com</authorEmail>
+    <authorUrl>https://github.com/zeten30</authorUrl>
+    <copyright>None</copyright>
+    <license>GNU General Public License version 2 or later</license>
+    <version>1.2.0</version>
+    <description>Šablona webu Prázdniny s Brontosaurem</description>
+    <files> 
+        <folder>css</folder>
+        <folder>html</folder>
+        <folder>images</folder>
+        <folder>js</folder>
+        <folder>language</folder>
+        <filename>index.php</filename>
+        <filename>index.html</filename>
+        <filename>favicon.ico</filename>
+        <filename>templateDetails.xml</filename>
+        <filename>template_preview.png</filename>
+        <filename>template_thumbnail.png</filename>
+        <filename>component.php</filename>
+        <filename>error.php</filename>
+    </files>
+
+    <positions>
+        <position>psb-menu-v-hlavicce</position>
+        <position>psb-vyhledavani</position>
+        <position>psb-panel-pod-hlavickou</position>
+        <position>psb-panel-s-obrazky</position>
+        <position>psb-navigace-vlevo</position>
+        <position>psb-promo-vlevo</position>
+        <position>psb-pravy-panel</position>
+        <position>psb-drobeckova-navigace</position>
+        <position>psb-paticka-stranky</position>
+        <position>psb-nad-hlavnim-obsahem</position>
+        <position>psb-pod-hlavnim-obsahem</position>
+    </positions>
+
+    <languages folder="language">
+        <language tag="en-GB">en-GB/en-GB.tpl_psb.ini</language>
+        <language tag="en-GB">en-GB/en-GB.tpl_psb.sys.ini</language>
+        <language tag="cs-CZ">cs-CZ/cs-CZ.tpl_psb.ini</language>
+        <language tag="en-GB">cs-CZ/cs-CZ.tpl_psb.sys.ini</language>
+    </languages>
+
+    <config>
+        <fields name="params">
+      
+        </fields>
+    </config>
+</extension>
