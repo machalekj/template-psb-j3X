@@ -11,7 +11,7 @@ body {
     line-height: 1.3em;
     background-image: url('../images/body.png');
     background-repeat: repeat-x;
-    background-color: #457400;
+    background-color: #990000;
 }
 
 input,select,button {
@@ -27,7 +27,7 @@ input,select,button {
 
 #footer {
     line-height: 1em;
-    background: #254000;
+    background: #990000;
     background-image: url('../images/footer_bck.png');
     background-repeat: repeat-x;
     background-position: top left;
@@ -47,7 +47,7 @@ input,select,button {
 
 #header_navigation a:hover {
     color: #effce0;
-    background-color: #457400;
+    background-color: #990000;
 
 }
 
@@ -214,14 +214,14 @@ div.moduletable {
 }
 
 .moduletable h3 {
-    color: #305200;
+    color: #990000;
     font-weight: bold;
     font-size: 1.3em;
     margin-bottom: 0.5em;
 }
 
 .moduletable h3 a {
-    color: #305200;
+    color: #990000;
 }
 
 .moduletable h3 a:hover {
