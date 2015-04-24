@@ -142,6 +142,7 @@ if ($menu->getActive() == $menu->getDefault() || $menu->getActive()->alias == 'h
                             <?php endif; ?>
 
                         </div>
+                        
                     </div>
                 </div>
             </div>

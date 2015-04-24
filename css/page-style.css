@@ -26,7 +26,7 @@ input,select,button {
 
 #footer {
     line-height: 1em;
-    background: #930a1b;
+    background: #2c2c2c;
     background-image: url('../images/footer_bck.png');
     background-repeat: repeat-x;
     background-position: top left;
@@ -37,7 +37,7 @@ input,select,button {
 }
 
 #header_navigation a{
-    color: #cfdcc0;
+    color: #afccf0;
     text-decoration: none;
     background-color: #930a1b;
     padding: 2px;
@@ -187,7 +187,7 @@ ul.breadcrumb  li{
 
 .round_decor_bottom {
     height: 8px;
-    background-image: url('../images/round-bottom.png');
+    //*background-image: url('../images/round-bottom.png');*//
     background-repeat: no-repeat;
     background-position: bottom center;
     background-color: transparent;

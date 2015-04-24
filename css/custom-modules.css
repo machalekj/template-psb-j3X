@@ -65,68 +65,6 @@
   margin-bottom: 5px;
 }
 
-/* Rozcestnik intro*/
-
-div.intro-slogan {
-  line-height: 1.4em;
-  font-size: 1.3em;
-  font-weight: bold;
-  color: #405d1a;
-}
-
-table.uvod-rozcestnik tr td div.rozcestnik {
-  height: 194px;
-  margin: 10px 0px auto 0px;
-  padding: 0;
-  width: 328px;
-}
-
-table.uvod-rozcestnik tr td div.rozcestnik div.text{
-  padding: 10px 6px 6px 6px;
-  border-radius: 6px;
-  background-color: #a1b08f;
-  background-image: url('../images/homepage-text2-bck.png');
-  background-repeat: repeat-x;
-  background-position: top left;
-  box-shadow: 0px 1px 2px #321;
-}
-
-table.uvod-rozcestnik tr td div.rozcestnik h3 {
-  position: relative;
-  padding: 0 0 4px 0;
-  margin: 0;
-}
-
-table.uvod-rozcestnik tr td div.rozcestnik h3 a{
-  text-decoration: none;
-  padding-left: 55px;
-}
-
-table.uvod-rozcestnik tr td div.uvod-seznam-se h3 a{
-  color: #ff9000;
-}
-
-table.uvod-rozcestnik tr td div.uvod-zucastni-se h3 a{
-  color: #ff5900;
-}
-
-table.uvod-rozcestnik tr td div.uvod-podpor-nas h3 a{
-  color: #aed300;
-}
-
-table.uvod-rozcestnik tr td div.rozcestnik h3 img.dekorace{
-  position: absolute;
-  z-index: 100;
-  width: 48px;
-  top: -2px;
-  left: 0px;
-}
-
-table.uvod-rozcestnik tr td div.rozcestnik-uprostred {
-  margin-left: 10px;
-  margin-right: 10px;
-}
-
 /*Facebook*/
 .facebook_badge {
   text-align: center;
