@@ -1,6 +1,6 @@
 /*MOD_BIS TABS*/
 #mod_bis_tabs  div.content{
-  background-color: #adddcf;
+  background-color: #ffddb5;
   border-bottom-left-radius: 6px;
   border-bottom-right-radius: 6px;
   padding: 3px;
@@ -18,7 +18,7 @@
 #mod_bis_tabs ul.tabs li {
   padding: 3px 2px 2px 2px;
   margin: 0;
-  background-color: #1c8163;
+  background-color: #930a1b;
   overflow: hidden;
   color: #fff;
   font-weight: bold;
@@ -42,12 +42,12 @@
 }
 
 #mod_bis_tabs ul.tabs li.mod_bis_clubs:hover,#mod_bis_tabs ul.tabs li.mod_bis_camps:hover,#mod_bis_tabs ul.tabs li.mod_bis_viks:hover, #mod_bis_tabs ul.tabs li.mod_bis_ekostan:hover {
-  background: #bdedcf;
+  background: #f5d5b0;
   color: #333;
 }
 
 #mod_bis_tabs ul.tabs li.tab.active {
-  background: #adddcf;
+  background: #ffddb5;
   color: #000;
 }
 
@@ -88,7 +88,7 @@ table.uvod-rozcestnik tr td div.rozcestnik div.text{
   background-image: url('../images/homepage-text2-bck.png');
   background-repeat: repeat-x;
   background-position: top left;
-  box-shadow: 0px 1px 2px #030;
+  box-shadow: 0px 1px 2px #321;
 }
 
 table.uvod-rozcestnik tr td div.rozcestnik h3 {
@@ -161,8 +161,8 @@ table.uvod-rozcestnik tr td div.rozcestnik-uprostred {
   z-index:1;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
-  box-shadow: 0px 1px 2px #030;
-  border-top: 1px solid #afbca0;
+  box-shadow: 0px 1px 2px #321;
+  border-top: 1px solid #930a1b;
 }
 
 div.moduletable_facebook {
@@ -212,11 +212,11 @@ div.rss-feed a {
   margin: 0 0 10px 0;
   border-bottom-left-radius: 8px;
   border-bottom-right-radius: 8px;
-  background: #adddcf;
+  background: #ffddb5;
 }
 
 #inside_middle_col div.plg_bis div.akce {
-  border: 2px solid #207e62;
+  border: 2px solid #930a1b;
   border-radius: 8px;
   margin: 7px 0 1.5em 0;
   background-color: #fff;
@@ -227,7 +227,7 @@ div.rss-feed a {
   border-top-right-radius: 8px;
   border-top-left-radius: 8px;
   padding: 7px;
-  background: #207e62;
+  background: #930a1b;
   color: #f0bf72;
   position: relative;
   font-weight: bold;
@@ -244,7 +244,7 @@ div.rss-feed a {
 
 #inside_middle_col div.plg_bis div.akce h3 a:hover, #inside_middle_col div.plg_bis div.akce h3:hover {
   text-decoration: underline;
-  background: #308e72;
+  background: #9f0f1f;
 }
 
 #inside_middle_col div.plg_bis div.akce h3 img {
@@ -257,7 +257,7 @@ div.rss-feed a {
   padding: 2px 4px 1px 4px;
   margin: 0 0 5px 0;
   color: #000;
-  background: #8ec1b2;
+  background: #ff9131;
   font-weight: bold;
   font-size: 0.82em;
 }
@@ -291,7 +291,7 @@ hr.cleaner {
 #inside_middle_col div.plg_bis div.akce table.tabulka_detail th {
   margin: 0;
   padding: 5px 5px 5px 8px;
-  background: #8ec1b2;
+  background: #ff9131;
   text-align: right;
   font-weight: bold;
   width: 180px;
@@ -300,7 +300,7 @@ hr.cleaner {
 #inside_middle_col div.plg_bis div.akce table.tabulka_detail td {
   margin: 0;
   padding: 5px 8px 5px 5px;
-  background: #cdece4;
+  background: #ffddb5;
 }
 
 #inside_middle_col div.plg_bis div.akce table.tabulka_detail tr:last-child td{
@@ -320,7 +320,7 @@ hr.cleaner {
 #inside_middle_col div.com_bis_backlink_bottom a {
   border-radius: 6px;
   padding: 5px;
-  background: #207e62;
+  background: #930a1b;
   color: #f0bf72;
   font-size: 0.9em;
   box-shadow: 1px 1px 1px #666;
@@ -342,21 +342,21 @@ hr.cleaner {
   text-align: center;
   border-top-right-radius: 8px;
   border-top-left-radius: 8px;
-  background-color: #207e62;
+  background-color: #930a1b;
   color: #fff;
   padding: 4px;
   font-size: 0.9em;
 }
 
 #inside_middle_col #com_bis_tabMenu tr td.active a {
-  background-color: #adddcf;
+  background-color: #ffddb5;
   color: #000;
   font-weight: bold;
   text-decoration: none;
 }
 
 #inside_middle_col #com_bis_tabMenu tr td a:hover {
-  background-color: #8dbdaf;
+  background-color: #930a1b;
   color: #000;
 }
 
@@ -368,29 +368,11 @@ hr.cleaner {
   margin-bottom: 16px;
 }
 
-
-/*Podporte nas - menu*/
-#left_panel_navigation ul li.item-358 a,#left_panel_navigation ul li.item-411 a {
-  background: #ff7602;
-}
-
-#left_panel_navigation ul li.item-358  a:hover,#left_panel_navigation ul li.item-411  a:hover {
-  background: #ff8604;
-}
-
-#left_panel_navigation ul li.item-358 ul li a,#left_panel_navigation ul li.item-411 ul li a {
-  background: #acddce;
-}
-
-#left_panel_navigation ul li.item-358 ul li a:hover,#left_panel_navigation ul li.item-411 ul li a:hover {
-  background: #bcedde;
-}
-
 /* MOD BIS FILTER */
 div.mod_bis_filter {
   padding: 6px;
   border-radius: 6px;
-  background-color: #adddcf;
+  background-color: #ffddb5;
   font-size: 94%;
 }
 

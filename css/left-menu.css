@@ -12,18 +12,18 @@
 
 #left_panel_navigation ul li ul li{
   list-style: none;
-  border-left: 7px solid #207e62;
+  border-left: 7px solid #930a1b;
 }
 
 #left_panel_navigation ul li ul li ul li{
   list-style: none;
-  border-left: 7px solid #79b2a1;
+  border-left: 7px solid #730a0b;
 }
 
 #left_panel_navigation ul li a {
   display: block;
   color:#fff;
-  background: #207e62;
+  background: #930a1b;
   padding: 4px;
   margin: 0 0 1px 0;
   text-decoration: none;
@@ -55,17 +55,17 @@
 }
 
 #left_panel_navigation ul li a:hover {
-  background: #308e72;
+  background: #9f0f1f;
 }
 
 
 #left_panel_navigation ul li ul li a {
   color:#000;
-  background: #acddce;
+  background: #ffddb5;
 }
 
 #left_panel_navigation ul li ul li a:hover {
-  background: #bcedde;
+  background: #f5d5b0;
 }
 
 #left_panel_navigation ul li.current a {
@@ -75,16 +75,3 @@
 #left_panel_navigation ul li.current ul li a {
   font-weight: normal;
 }
-
-#left_panel_navigation ul.nase-programy li a {
-  background: #1a9470;
-}
-
-#left_panel_navigation ul.nase-programy li a:hover {
-  background: #2aa480;
-}
-
-.nase_programy h3 {
-  margin-top: 0.75em;
-}
-

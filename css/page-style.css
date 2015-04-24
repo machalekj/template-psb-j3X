@@ -9,9 +9,8 @@ body {
     font-family: 'Open Sans', Tahoma, Verdana, Arial, sans-serif;
     font-size: 15px;
     line-height: 1.3em;
-    background-image: url('../images/body.png');
     background-repeat: repeat-x;
-    background-color: #990000;
+    background-color: #4c4c4c;
 }
 
 input,select,button {
@@ -27,7 +26,7 @@ input,select,button {
 
 #footer {
     line-height: 1em;
-    background: #990000;
+    background: #930a1b;
     background-image: url('../images/footer_bck.png');
     background-repeat: repeat-x;
     background-position: top left;
@@ -40,14 +39,14 @@ input,select,button {
 #header_navigation a{
     color: #cfdcc0;
     text-decoration: none;
-    background-color: #295000;
+    background-color: #930a1b;
     padding: 2px;
     border-radius: 4px;
 }
 
 #header_navigation a:hover {
     color: #effce0;
-    background-color: #990000;
+    background-color: #f5d5b0;
 
 }
 
@@ -214,18 +213,18 @@ div.moduletable {
 }
 
 .moduletable h3 {
-    color: #990000;
+    color: #004f95;
     font-weight: bold;
     font-size: 1.3em;
     margin-bottom: 0.5em;
 }
 
 .moduletable h3 a {
-    color: #990000;
+    color: #004f95;
 }
 
 .moduletable h3 a:hover {
-    color: #406210;
+    color: #005fa5;
 }
 
 div.blog .item-separator {

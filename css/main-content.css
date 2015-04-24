@@ -3,7 +3,7 @@
 }
 
 #inside_middle_col h1 {
-  color: #990000;
+  color: #004f95;
   font-weight: bold;
   line-height: 1.2em;
   letter-spacing: 0.1em;
@@ -15,7 +15,7 @@
 }
 
 #inside_middle_col h2 {
-  color: #990000;
+  color: #004f95;
   font-weight: bold;
   letter-spacing: 0.05em;
 }
@@ -31,12 +31,12 @@ div.item-page h2 {
 }
 
 #inside_middle_col h1 a, #inside_middle_col h2 a {
-  color: #990000;
+  color: #004f95;
   text-decoration: none;
 }
 
 #inside_middle_col h1 a:hover, #inside_middle_colh2 a:hover {
-  color: #990000;
+  color: #004f95;
   text-decoration: none;
 }
 
